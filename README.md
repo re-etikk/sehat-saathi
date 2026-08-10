@@ -120,6 +120,7 @@ AI-assisted coding was used (Claude); the team can explain every file, and `test
 ## 9. Demo
 
 - Full demo video: https://drive.google.com/file/d/1urrLY3E8DI9PZ3L4JUbyZGm2D5eUOnbc/view
+## 10. PPT link
 - PPT link: https://docs.google.com/presentation/d/1Knaws9ix8BggXj-_sAhnBu2k8tmaZ6w3/edit?slide=id.p1#slide=id.p1
 
 
