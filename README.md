@@ -110,9 +110,10 @@ cd backend && MOCK_MODE=1 python -m pytest tests/ -v
 
 | Member | Contribution |
 |---|---|
-| _Name 1_ | Backend, Qdrant memory design, safety gate |
-| _Name 2_ | Frontend UI/UX, barge-in + latency instrumentation |
-| _Name 3_ | Prompting, evaluation, demo, README |
+| **Ritik Kumar** (Team Leader) | Backend architecture — FastAPI server, login/auth system (PBKDF2 + sessions), Qdrant memory design (isolation, correction audit-trail), Hugging Face LLM integration, deployment & repo |
+| **Tushar Raj Gupta** | Frontend UI/UX — dashboard ("Aaj"), alarm/reminder interface, barge-in implementation, latency HUD, elderly-friendly design system |
+| **Shashi Bhushan** | Voice pipeline — Rime TTS integration & voice routing (hi/en), agent prompting & JSON contract, red-flag safety gate, pytest test suite |
+| **Saffihuzzama** | Evaluation & delivery — latency/retrieval eval harness, knowledge seeding, demo script & video, PPT, documentation, end-to-end QA |
 
 AI-assisted coding was used (Claude); the team can explain every file, and `tests/` catches wrong implementations.
 
