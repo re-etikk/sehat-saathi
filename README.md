@@ -1,4 +1,4 @@
-# Sehat Saathi — आपकी दवाई की साथी 🎙
+# Sehat Saathi 🎙
 
 > **One-sentence claim:** A Hindi/English voice companion that helps elderly users manage daily medicines with correctable Qdrant memory, deterministic caregiver escalation, and Rime speech that recovers correctly from interruptions — reasoning from what the user actually *heard*, not what the system intended to say.
 
@@ -119,8 +119,8 @@ AI-assisted coding was used (Claude); the team can explain every file, and `test
 
 ## 9. Demo
 
-- Full demo video: _link_
-- 25s showcase clip/GIF: _link_
+- Full demo video: https://drive.google.com/file/d/1urrLY3E8DI9PZ3L4JUbyZGm2D5eUOnbc/view
+
 
 ---
 *Build the present. Explore the frontier. Leave a signal worth following.*
